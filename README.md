@@ -1,6 +1,6 @@
 # 🐞 Rust Under the Hood Errata
 
-Add your [corrections and suggestions](https://github.com/eventhelix/ruth/issues) for the book [Rust Under the Hood](https://bookgoodies.com/a/B0D7FQB3DH) here. We appreciate your feedback!
+Add your [corrections and suggestions](https://github.com/eventhelix/ruth/issues) for the book [Rust Under the Hood](https://www.amazon.com/dp/B0D7FQB3DH) here. We appreciate your feedback!
 
 ## 🦀 About Rust Under the Hood
 
