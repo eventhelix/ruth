@@ -8,7 +8,7 @@ Unlock the full potential of the Rust programming language with "Rust Under the 
 
 ### Where to Buy
 
-- **[Amazon](https://bookgoodies.com/a/B0D7FQB3DH)**: Purchase the Kindle or paperback version on Amazon.
+- **[Amazon](https://www.amazon.com/dp/B0D7FQB3DH)**: Purchase the Kindle or paperback version on Amazon.
 - **[Payhip](https://payhip.com/b/n6SjU)**: Buy the PDF version on Payhip.
 
 ### Who Should Read This Book?
